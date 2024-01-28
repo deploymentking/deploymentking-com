@@ -1,5 +1,5 @@
 +++
-title = '01 Test Pr'
+title = 'Test Pr'
 date = 2024-01-28T14:38:16Z
 draft = false
 +++
